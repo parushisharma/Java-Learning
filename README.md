@@ -6,7 +6,7 @@ brief explanation of submitted files:
 src/DemoGit.java
 	- The program outputs the user's first and last name 
 	
-RUN.txt
+Resources/RUN.txt
 	- console output of program 
 	
 README.txt
