@@ -5,7 +5,20 @@
 	<projects>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/names3.txt</name>
+			<type>1</type>
+			<locationURI>PARENT-1-WORKSPACE_LOC/hw3/names3.txt</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
