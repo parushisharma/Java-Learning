@@ -1,3 +1,13 @@
-# parushis-project01
-project01 created for parushis
-This is the first assignment 
+project folder:
+parushis-project01/
+
+brief explanation of submitted files:
+
+src/DemoGit.java
+	- The program outputs the user's first and last name 
+	
+RUN.txt
+	- console output of program 
+	
+README.txt
+	- brief explanation of submitted files 
